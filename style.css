@@ -1,0 +1,150 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    margin: 0 5% 0 5%;
+}
+
+.one {
+    background-color: #8cc3fa;
+    border: solid black;
+    border-width: 1px 1px 0.5px 1px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.content {
+    flex: 0 1 70%;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.verh {
+    display: flex;
+    justify-content: space-between;
+    min-height: 400px;
+}
+
+.two {
+    background-color: #baffa8;
+    border: solid black;
+    border-width: 1px 1px 0.5px 1px;
+    display: flex;
+    flex: 0 1 20%;
+
+}
+
+.three {
+    background-color: #ffffff;
+    border: solid black;
+    border-width: 0 1px 1px 1px;
+    display: flex;
+    min-height: 400px;
+    justify-content: space-between;
+    align-items:center;
+}
+
+.three2 {
+    background-color: #ffffff;
+    border: solid black;
+    border-width: 0 1px 1px 1px;
+    display: flex;
+    min-height: 400px;
+    justify-content: center;
+    align-items:center;
+}
+
+.three4 {
+    background-color: #ffffff;
+    border: solid black;
+    border-width: 0 1px 1px 1px;
+    display: flex;
+    min-height: 400px;
+    flex-direction: column;
+    align-items:center;
+}
+
+.four {
+    background-color: #8cc3fa;
+    border: solid black;
+    border-width: 0 1px 1px 1px;
+    flex: 0 1 70%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.five {
+    background-color: #ffe9a6;
+    border: solid black;
+    border-width: 0 1px 1px 1px;
+    display: flex;
+    flex: 0 1 20%;
+
+}
+
+td {
+    background-color: white;
+    margin: 15px;
+}
+
+.i1 {
+    margin: 0 50px 0 10px;
+    height: 300px;
+}
+
+.three p {
+}
+
+.t1 {
+    margin: 10px;
+}
+.one p {
+    padding: 10px;
+}
+
+.t2 {
+}
+
+.four p {
+    padding: 10px;
+}
+
+h1 {
+    padding: 5px;
+}
+
+.menu {
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+h4 {
+}
+
+#p{
+}
+
+#img1 {
+}
+
+#img2 {
+}
+
+img {
+    height: 200px;
+    padding: 10px;
+}
+
+h4 {
+}
+
+.theaters {
+}
